@@ -1,10 +1,10 @@
 #  Hi, Guilherme
 
 
-- 👀 I’m interested in languages, travel, mangas/webtoons, surf, learn and teach programming.
-- 🌱 I’m currently in a bootcamp at Driven Education and learning things on my own too.
-- 💞️ I’m looking to collaborate on open source, learn languages and to produce content.
-- 📫 I'm Brazilian and I speak portuguese, english and currently studying french.
+- 👀 I’m interested in languages, travel,soccer, surf, learn and teach programming.
+<br/>
+
+- 📫 I'm Brazilian and I speak portuguese,  currently studying english.
 <br/>
 
 
@@ -12,6 +12,8 @@
 [![wakatime](https://wakatime.com/badge/user/502fa432-c86c-4ff9-9183-cdf588b7b830.svg)](https://wakatime.com/@502fa432-c86c-4ff9-9183-cdf588b7b830)
 <br/>
 [![GitHub Streak](https://streak-stats.demolab.com?user=QuickFyx)](https://git.io/streak-stats)
+<br/>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=QuickFyx&show_icons=true&theme=flag-india)
 
 
 <br/>
