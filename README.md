@@ -12,6 +12,7 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=QuickFyx)](https://git.io/streak-stats)
 <br/>
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=QuickFyx&show_icons=true&theme=flag-india)
 
 
