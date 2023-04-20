@@ -10,10 +10,11 @@
 
 ## My stats
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=QuickFyx)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=guilhermecampf)](https://git.io/streak-stats)
 <br/>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=QuickFyx&show_icons=true&theme=flag-india)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=guilhermecampf
+&show_icons=true&theme=flag-india)
 
 
 <br/>
